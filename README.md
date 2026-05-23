@@ -1,4 +1,4 @@
-# Olá, eu sou Lucas Vianna 👋
+# Olá, eu sou Lucas Viana 👋
 
 🎓 Estudante de Engenharia de Software – 4º semestre
 
