@@ -1,6 +1,6 @@
 # Olá, eu sou Lucas Viana 👋
 
-🎓 Estudante de Engenharia de Software – 4º semestre
+🎓 Estudante de Engenharia de Software – 5º semestre
 
 💻 Tecnologias:
 - Python
